@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Tiago Prosp <tiago@prosp>",
+  "license": "ISC",
+  "repository": "https://github.com/talvasconcelos/crypto-trade-bot.git"
 }
